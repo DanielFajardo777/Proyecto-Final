@@ -1,5 +1,7 @@
 # Huffman Coding
 Este proyecto consiste en una implementación de Huffman Coding en JavaScript. El objetivo de Huffman Coding es comprimir y descomprimir datos de manera eficiente utilizando árboles de Huffman.
+
+[Sitio Web](https://danielfajardo777.github.io/Proyecto-Final/ "Sitio Web")
 ## Archivos del proyecto
 El proyecto consta de dos archivos:
 
